@@ -1,1 +1,1 @@
-# Python-Assignments
+PYTHON ASSIGNMENTS
